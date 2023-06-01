@@ -1,8 +1,8 @@
 # jcg-code-generator
 
-### npm package that generates html, js and css boilerplate code based on label, input, button, textarea, eventListeners etc
+#### npm package that generates html, js and css boilerplate code based on label, input, button, textarea, eventListeners etc
 
-## Example Usage  
+### Example Usage  
 
 #### Put the code below in a .js file and run with:  
 
