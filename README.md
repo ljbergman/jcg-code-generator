@@ -9,8 +9,10 @@
 
 **node YourScriptFileName.js**
 
-#### This should generate one .html file, one .js file and one .css file using the information you put in the fieldAttributes.fields 
-#### You can easily switch filenames by changing the filename object and generate more fields by extending the fieldAttributes.fields Array with more entries.  
+#### This should generate one .html file, one .js file and one .css file using the information you put in the fieldAttributes.fields.
+#### You can easily switch filenames by changing the filename object and generate more fields by extending the fieldAttributes.fields Array with more entries.
+
+#### This first version is not bug free, and will be upgraded and extended.
 
 ## JavaScript Code
 
