@@ -1,0 +1,28 @@
+{
+  "name": "jcg-code-generator",
+  "version": "1.0.0",
+  "description": "HTML, JS and CSS Boilerplate Code Generator (label, input, button, textarea, addEventListener etc)",
+  "main": "index.js",
+  "dependencies": {
+    "jcg-writefile": "^1.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ljbergman/jcg-code-generator.git"
+  },
+  "keywords": [
+    "boilerplate",
+    "code-generator",
+    "js-generator",
+    "boilerplate-generation"
+  ],
+  "author": "L.J Bergman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ljbergman/jcg-code-generator/issues"
+  },
+  "homepage": "https://github.com/ljbergman/jcg-code-generator#readme"
+}
